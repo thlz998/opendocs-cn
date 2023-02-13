@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkopendocs_cn=self.webpackChunkopendocs_cn||[]).push([[360],{4594:o=>{o.exports=JSON.parse('{"permalink":"/opendocs-cn/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
