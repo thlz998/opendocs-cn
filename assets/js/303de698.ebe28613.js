@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopendocs_cn=self.webpackChunkopendocs_cn||[]).push([[789],{9599:o=>{o.exports=JSON.parse('{"permalink":"/opendocs-cn/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
