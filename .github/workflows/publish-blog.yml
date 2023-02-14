@@ -32,4 +32,4 @@ jobs:
           else
           npm i
           fi
-          npm run deploy && echo docsopen.ai > CNAME
+          echo docsopen.ai > CNAME & npm run deploy
