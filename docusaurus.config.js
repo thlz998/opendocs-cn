@@ -111,6 +111,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {name: 'keywords', content: 'OpenAI, ChatGPT, 中文文档, 翻译, 中文, 文档, 说明, 教程, 用例'},
+        {name: 'description', content: '本网站是OpenAI和ChatGPT的中文文档翻译，提供全面详细的使用说明和实例教程'}
+      ],
     }),
 };
 
