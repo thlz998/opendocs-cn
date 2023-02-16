@@ -85,6 +85,12 @@ const config = {
             label: '文档',
           },
           {
+            type: 'doc',
+            docId: 'plan',
+            position: 'left',
+            label: '翻译计划',
+          },
+          {
             href: 'https://github.com/thlz998/opendocs-cn',
             label: 'GitHub',
             position: 'right',
